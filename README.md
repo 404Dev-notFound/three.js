@@ -7,7 +7,7 @@
 - ✔️ Lightweight, fast, and works on all devices  
 
 ────────────────────────────────────
-# 📊 Visual Graph: Three.js Learning Curve
+# 📊 Visual Graph: Three.js Learning Curve     
 
            EASY  |■■■■■■■■■■■■■■■■■
        MODERATE  |■■■■■■■
