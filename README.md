@@ -18,7 +18,9 @@
 
 # ⚙️ Key Concepts (Explained Clean & Simple)
 
+
 ## 🔹 1. Making a Cube (Your First 3D Object)
+
 
 ```js
 const devGeometry = new THREE.BoxGeometry(2,2,2);
