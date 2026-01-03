@@ -21,7 +21,6 @@
 
 ## 🔹 1. Making a Cube (Your First 3D Object)
 
-
 ```js
 const devGeometry = new THREE.BoxGeometry(2,2,2);
 const devMaterial = new THREE.MeshBasicMaterial({ color: 0x00ff99 });
